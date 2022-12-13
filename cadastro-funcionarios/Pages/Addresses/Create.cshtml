@@ -1,0 +1,58 @@
+﻿@page
+@model cadastro_funcionarios.Pages.Addresses.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Address</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Address.Cep" class="control-label"></label>
+                <input asp-for="Address.Cep" class="form-control" />
+                <span asp-validation-for="Address.Cep" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Address.Road" class="control-label"></label>
+                <input asp-for="Address.Road" class="form-control" />
+                <span asp-validation-for="Address.Road" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Address.Neighborhood" class="control-label"></label>
+                <input asp-for="Address.Neighborhood" class="form-control" />
+                <span asp-validation-for="Address.Neighborhood" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Address.Number" class="control-label"></label>
+                <input asp-for="Address.Number" class="form-control" />
+                <span asp-validation-for="Address.Number" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Address.City" class="control-label"></label>
+                <input asp-for="Address.City" class="form-control" />
+                <span asp-validation-for="Address.City" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Address.EmployeeForeignKey" class="control-label"></label>
+                <select asp-for="Address.EmployeeForeignKey" class ="form-control" asp-items="ViewBag.EmployeeForeignKey"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,89 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = cadastro_funcionarios
+build_property.RootNamespace = cadastro_funcionarios
+build_property.ProjectDir = C:\Users\nuely\Documents\programacao\csharpCodes\projetos\cadastro-funcionarios\cadastro-funcionarios\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\nuely\Documents\programacao\csharpCodes\projetos\cadastro-funcionarios\cadastro-funcionarios
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/nuely/Documents/programacao/csharpCodes/projetos/cadastro-funcionarios/cadastro-funcionarios/Pages/Addresses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkcmVzc2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nuely/Documents/programacao/csharpCodes/projetos/cadastro-funcionarios/cadastro-funcionarios/Pages/Addresses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkcmVzc2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nuely/Documents/programacao/csharpCodes/projetos/cadastro-funcionarios/cadastro-funcionarios/Pages/Addresses/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkcmVzc2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nuely/Documents/programacao/csharpCodes/projetos/cadastro-funcionarios/cadastro-funcionarios/Pages/Addresses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkcmVzc2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nuely/Documents/programacao/csharpCodes/projetos/cadastro-funcionarios/cadastro-funcionarios/Pages/Addresses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkcmVzc2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nuely/Documents/programacao/csharpCodes/projetos/cadastro-funcionarios/cadastro-funcionarios/Pages/Employees/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nuely/Documents/programacao/csharpCodes/projetos/cadastro-funcionarios/cadastro-funcionarios/Pages/Employees/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nuely/Documents/programacao/csharpCodes/projetos/cadastro-funcionarios/cadastro-funcionarios/Pages/Employees/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nuely/Documents/programacao/csharpCodes/projetos/cadastro-funcionarios/cadastro-funcionarios/Pages/Employees/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nuely/Documents/programacao/csharpCodes/projetos/cadastro-funcionarios/cadastro-funcionarios/Pages/Employees/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nuely/Documents/programacao/csharpCodes/projetos/cadastro-funcionarios/cadastro-funcionarios/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nuely/Documents/programacao/csharpCodes/projetos/cadastro-funcionarios/cadastro-funcionarios/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nuely/Documents/programacao/csharpCodes/projetos/cadastro-funcionarios/cadastro-funcionarios/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nuely/Documents/programacao/csharpCodes/projetos/cadastro-funcionarios/cadastro-funcionarios/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nuely/Documents/programacao/csharpCodes/projetos/cadastro-funcionarios/cadastro-funcionarios/Pages/SignUp/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnblVwXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nuely/Documents/programacao/csharpCodes/projetos/cadastro-funcionarios/cadastro-funcionarios/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nuely/Documents/programacao/csharpCodes/projetos/cadastro-funcionarios/cadastro-funcionarios/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nuely/Documents/programacao/csharpCodes/projetos/cadastro-funcionarios/cadastro-funcionarios/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-dsji2zoj5z
